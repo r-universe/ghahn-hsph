@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "BayesProject"]
 	path = BayesProject
 	url = https://github.com/cran/BayesProject
-	shallow = true
-	registered = true
 [submodule "fastOnlineCpt"]
 	path = fastOnlineCpt
 	url = https://github.com/cran/fastOnlineCpt
-	shallow = true
-	registered = true
 [submodule "locStra"]
 	path = locStra
 	url = https://github.com/cran/locStra
-	shallow = true
-	registered = true
 [submodule "smoothedLasso"]
 	path = smoothedLasso
 	url = https://github.com/cran/smoothedLasso
-	shallow = true
-	registered = true
